@@ -1,6 +1,6 @@
 # Atomic Host on OpenStack with Terraform
 
-The goal of this is to launch an [Atomic Host](http://www.projectatomic.io/)] on [OpenStack](http://www.openstack.org/) with [Terraform](https://www.terraform.io/).
+The goal of this is to launch an [Atomic Host](http://www.projectatomic.io/) on [OpenStack](http://www.openstack.org/) with [Terraform](https://www.terraform.io/).
 
 It will create a security group named "atomic-sg", allowing SSH, and an instance. If you don't have an Atomic Host image on your OpenStack, we'll create one.
 
