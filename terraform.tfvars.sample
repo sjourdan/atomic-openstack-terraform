@@ -1,0 +1,8 @@
+user_name  = "abcde"
+tenant_name = "1234"
+password  = "p4ssw0rd"
+auth_url  = "https://auth.openstack.addr/v2.0"
+key_pair = "keypair-name"
+cluster_size = "1"
+flavor_name = "flavor-name"
+image_name = "CentOS Atomic"
