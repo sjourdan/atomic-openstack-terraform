@@ -25,7 +25,9 @@ Exemple:
 
 To make the Atomic Host image available on OpenStack with Glance:
 
-    glance image-create --name "CentOS Atomic 20151118" --container-format bare --disk-format qcow2 --file CentOS-Atomic-Host-7-GenericCloud.qcow2
+    glance image-create --name "CentOS Atomic 20151118" \
+      --container-format bare --disk-format qcow2 \
+      --file CentOS-Atomic-Host-7-GenericCloud.qcow2
 
 ## Terraform and Atomic
 
